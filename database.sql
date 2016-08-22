@@ -1,0 +1,6 @@
+-- CREATE TABLE tasks
+-- (
+--   id serial PRIMARY KEY,
+--   task varchar(256) NOT NULL,
+--   completed boolean
+-- )
